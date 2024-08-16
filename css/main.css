@@ -1,0 +1,44 @@
+.main{
+margin: 0;
+border: 0;
+padding: 0;
+height: 100vh;
+width: 100vw;
+background-color: blueviolet;
+}
+
+.floor1{
+    background-color: aliceblue;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 25vh;
+    width: 100vw;
+}
+.floor2{
+    background-color: palegoldenrod;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 25vh;
+    width: 100vw;
+}
+.floor3{
+    background-color: lightcoral;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 25vh;
+    width: 100vw;
+}
+.floor4{
+    background-color: palegreen;
+    margin: 0;
+    border: 0;
+    padding: 0;
+    height: 25vh;
+    width: 100vw;
+}
+.floor4 button{
+
+}
